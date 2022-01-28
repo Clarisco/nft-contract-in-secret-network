@@ -1,0 +1,12 @@
+/home/clarisco/Desktop/nftsgit/target/wasm32-unknown-unknown/release/deps/sha2-6fbc9222627fa1a5.rmeta: /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/lib.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/consts.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256/soft.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512/soft.rs
+
+/home/clarisco/Desktop/nftsgit/target/wasm32-unknown-unknown/release/deps/libsha2-6fbc9222627fa1a5.rlib: /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/lib.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/consts.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256/soft.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512/soft.rs
+
+/home/clarisco/Desktop/nftsgit/target/wasm32-unknown-unknown/release/deps/sha2-6fbc9222627fa1a5.d: /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/lib.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/consts.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256/soft.rs /home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512/soft.rs
+
+/home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/lib.rs:
+/home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/consts.rs:
+/home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256.rs:
+/home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512.rs:
+/home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha256/soft.rs:
+/home/clarisco/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.1/src/sha512/soft.rs:

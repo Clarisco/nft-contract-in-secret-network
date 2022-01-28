@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/clarisco/Desktop/nftsgit/target/wasm32-unknown-unknown/release/build/typenum-5445e9dffb5a1e02/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/clarisco/Desktop/nftsgit/target/wasm32-unknown-unknown/release/build/typenum-5445e9dffb5a1e02/out/op.rs
